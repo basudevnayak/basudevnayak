@@ -1,15 +1,17 @@
 # Hi, I'm Basudev Nayak 👋
 
-### 🚀 Full Stack Developer | JavaScript | React  | Node.js
+### 🚀 Full Stack Developer | JavaScript | React | Node.js
 
-I'm a passionate **Full Stack Developer** focused on building scalable web applications, cross-platform mobile apps, REST APIs, and AI-powered solutions. I enjoy developing responsive user interfaces, robust backend systems, and efficient database architectures.
+I build modern, scalable web applications, cross-platform mobile apps, REST APIs, and AI-powered solutions. I enjoy solving real-world problems through clean code and efficient software architecture.
+
+---
 
 ### 💻 Tech Stack
 
-**Frontend Development**
+**Frontend**
 - HTML5, CSS3, JavaScript
 - React.js, Angular
-- Responsive UI Development
+- Responsive Web Design
 
 **Mobile Development**
 - React Native
@@ -17,10 +19,10 @@ I'm a passionate **Full Stack Developer** focused on building scalable web appli
 
 **Backend Development**
 - Node.js, Express.js
-- REST API Development
-- Authentication and Authorization
+- REST APIs
+- Authentication & Authorization
 
-**Database**
+**Databases**
 - PostgreSQL
 - MongoDB
 - MySQL
@@ -30,30 +32,36 @@ I'm a passionate **Full Stack Developer** focused on building scalable web appli
 - ONNX Runtime
 - Computer Vision
 
-**Tools & Technologies**
-- Git, GitHub
+**Tools**
+- Git & GitHub
 - Postman
 - Docker
 - VS Code
 
+---
+
 ### 🚀 Featured Projects
 
-- **GreenQube** — Mobile application with AI-powered computer vision.
-- **Full Stack Web Applications** — Modern frontend and backend solutions.
-- **AI & Machine Learning** — Model integration and on-device inference.
+- 🌱 **GreenQube** — Mobile application with AI-powered computer vision.
+- 🌐 **Full Stack Applications** — Modern web applications with frontend and backend integration.
+- 🤖 **AI & Machine Learning** — Model integration and on-device inference.
+
+---
 
 ### 🎯 What I Do
 
 - Build end-to-end web applications.
-- Develop REST APIs and backend services.
+- Develop scalable backend services and REST APIs.
 - Create cross-platform mobile applications.
 - Design and optimize database systems.
 - Integrate AI/ML models into applications.
 
+---
+
 ### 📫 Connect With Me
 
-- **GitHub:** [@basudevnayak](https://github.com/basudevnayak)
+- 💻 **GitHub:** [@basudevnayak](https://github.com/basudevnayak)
 
 ---
 
-⭐ *Building scalable applications, solving real-world problems, and continuously learning new technologies.*
+⭐ *Building useful software, solving real-world problems, and learning something new every day.*
